@@ -2,9 +2,15 @@
 
 This is a calculator project developed in Kotlin in Android Studio for the Programming III class at the university. The user interface is inspired by the iconic video game character Pacman and the game itself.
 
-![Pacman's Calculator Screenshot](screenshots/Screenshot_1.png)
+![Pizza Hut App Screenshot](screenshots/Screenshot_1.png)
 
-![Pacman's Calculator Screenshot](screenshots/Screenshot_2.png)
+![Pizza Hut App Screenshot](screenshots/Screenshot_2.png)
+
+![Pizza Hut App Screenshot](screenshots/Screenshot_3.png)
+
+![Pizza Hut App Screenshot](screenshots/Screenshot_3.1.png)
+
+![Pizza Hut App Screenshot](screenshots/Screenshot_4.png)
 
 
 ## Features
