@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:gravity="center"
+    android:layout_margin="20dp"
+    >
+    <ImageView
+        android:id="@+id/imageViewProducts"
+        android:layout_weight="0.7"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:padding="7dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="75dp"
+        android:layout_weight="0.5"
+        android:orientation="vertical" >
+
+
+        <Button
+            android:id="@+id/buttonProductAdd"
+            android:layout_width="287dp"
+            android:layout_height="284dp"
+            android:layout_gravity="center"
+            android:layout_weight="0.5"
+            android:backgroundTint="@color/white"
+            android:fontFamily="@font/irish_grover"
+            android:onClick="addToCart"
+            android:text="Add to Cart"
+            android:textAlignment="center"
+            android:textColor="#CA2032"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            app:cornerRadius="10dp" />
+    </LinearLayout>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

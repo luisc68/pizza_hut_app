@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="350dp">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textViewProduct"
+            android:layout_width="match_parent"
+            android:layout_height="171dp"
+            android:height="30dp"
+            android:fontFamily="@font/irish_grover"
+            android:gravity="center"
+            android:text="TextView"
+            android:textSize="37sp" />
+
+        <TextView
+            android:id="@+id/textViewPrice"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:fontFamily="@font/irish_grover"
+            android:gravity="center"
+            android:text="TextView"
+            android:textSize="42sp" />
+
+        <Button
+            android:id="@+id/buttonRemove"
+            android:layout_width="194dp"
+            android:layout_height="74dp"
+            android:layout_gravity="center"
+            android:fontFamily="@font/irish_grover"
+            android:text="Remove"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:cornerRadius="10dp" />
+    </LinearLayout>
+</LinearLayout>
