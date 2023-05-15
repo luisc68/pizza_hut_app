@@ -1,6 +1,6 @@
 # Pizza Hut App
 
-This is a calculator project developed in Kotlin in Android Studio for the Programming III class at the university. The user interface is inspired by the iconic video game character Pacman and the game itself.
+Welcome to Pizza Hut App! This is a mobile application developed project developed in Java in Android Studio for the Programming III class at the university for ordering pizzas from Pizza Hut. It provides a user-friendly interface to browse through the menu, customize pizzas, and place orders conveniently.
 
 ![Pizza Hut App Screenshot](screenshots/Screenshot_0.png)
 
@@ -17,29 +17,42 @@ This is a calculator project developed in Kotlin in Android Studio for the Progr
 
 ## Features
 
-The calculator includes the following features:
+The Pizza Hut App includes the following features:
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Exponentiation
-- Square Root
+- Browse through the menu: View the available pizzas and their descriptions.
+- Customization options: Customize your pizzas with various toppings, crust types, and sizes.
+- Place orders: Add pizzas to your cart and complete the order process.
+- User authentication: Create an account, log in, and manage your profile information.
+
 
 ## How to use the calculator
 
-1. Clone the repository to your computer.
+1. Clone the repository to your local machine using the following command:
+
+   ```bash
+   git clone https://github.com/luisc68/pizza_hut_app.git
+
+
 2. Open the project in Android Studio.
 3. Run the project on a virtual device or on an Android device connected to your computer.
 4. Use the user interface to perform your calculations.
 
 ## Supported Screen Sizes
 
-This calculator has been designed and optimized for devices with screens similar in size to the Google Pixel 6 Pro. While it may work on other devices, the user interface may not display correctly or be difficult to use.
+This app has been designed and optimized for devices with screens similar in size to the Google Nexus 10. While it may work on other devices, the user interface may not display correctly or be difficult to use.
 
 ## Credits
 
 - Developed by Luis C.
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out:
+
+- Email: cernajose79@gmail.com
+- Twitter: [@05_joseluis](https://twitter.com/05_joseluis)
+
+Enjoy ordering delicious pizzas with Pizza Hut App!
 
 ## License
 
