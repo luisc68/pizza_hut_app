@@ -1,6 +1,6 @@
 # Pizza Hut App
 
-Welcome to Pizza Hut App! This is a mobile application developed for ordering pizzas from Pizza Hut. It provides a user-friendly interface to browse through the menu, customize pizzas, and place orders conveniently.
+Welcome to Pizza Hut App! This is a mobile application developed project developed in Java in Android Studio for the Programming III class at the university for ordering pizzas from Pizza Hut. It provides a user-friendly interface to browse through the menu, customize pizzas, and place orders conveniently.
 
 ![Pizza Hut App Screenshot](screenshots/Screenshot_1.png)
 
