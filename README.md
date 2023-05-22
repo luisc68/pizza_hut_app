@@ -6,10 +6,10 @@ Welcome to Pizza Hut App! This is a mobile application developed project develop
 | Screenshot 1: Loading Screen | Screenshot 2: Home Screen |
 |--------------|--------------|
 | ![Pizza Hut App Screenshot](screenshots/Screenshot_0.png)      | ![Pizza Hut App Screenshot](screenshots/Screenshot_1.png)      |
-| Screenshot 3: Loading Screen | Screenshot 4: Home Screen |
+| Screenshot 3: Menu Screen | Screenshot 4: Shoping Cart Screen |
 |--------------|--------------|
 | ![Pizza Hut App Screenshot](screenshots/Screenshot_2.png)      | ![Pizza Hut App Screenshot](screenshots/Screenshot_3.png)      |
-| Screenshot 5: Loading Screen | Screenshot 6: Home Screen |
+| Screenshot 5: Alert Message Screen | Screenshot 6: Final Screen |
 |--------------|--------------|
 | ![Pizza Hut App Screenshot](screenshots/Screenshot_3_1.png)      | ![Pizza Hut App Screenshot](screenshots/Screenshot_4.png)      |
 
